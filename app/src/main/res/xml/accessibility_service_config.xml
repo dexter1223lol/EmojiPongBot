@@ -1,0 +1,5 @@
+<!-- put in res/xml/ -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:canPerformGestures="true"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:description="@string/app_name" />
